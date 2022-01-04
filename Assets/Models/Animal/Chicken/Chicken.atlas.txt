@@ -1,0 +1,62 @@
+
+Chicken.png
+size: 124,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chicken_Body
+  rotate: false
+  xy: 2, 49
+  size: 79, 70
+  orig: 81, 72
+  offset: 1, 1
+  index: -1
+Chicken_Face
+  rotate: true
+  xy: 2, 14
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 1
+  index: -1
+Chicken_Hair
+  rotate: true
+  xy: 38, 16
+  size: 31, 23
+  orig: 33, 25
+  offset: 1, 1
+  index: -1
+Chicken_L_Foot
+  rotate: true
+  xy: 63, 28
+  size: 19, 16
+  orig: 21, 18
+  offset: 1, 1
+  index: -1
+Chicken_Mao
+  rotate: false
+  xy: 38, 4
+  size: 12, 10
+  orig: 14, 12
+  offset: 1, 1
+  index: -1
+Chicken_R_Foot
+  rotate: true
+  xy: 63, 5
+  size: 21, 13
+  orig: 23, 15
+  offset: 1, 1
+  index: -1
+Chicken_Wing
+  rotate: false
+  xy: 83, 80
+  size: 36, 39
+  orig: 38, 41
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 83, 20
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
